@@ -4,5 +4,5 @@ Zhou Ge, Han Mei, Kunqian Li*, Dalei Song
    <img src="./fig2.png" width="80%" alt="teaser" align=center />
 </div>
 
-The source code and pre-trained model of the dataset SUIM-AL and the enhanced model DSFormer are about to be released.
+The dataset SUIM-AL and source code and pre-trained model of the enhanced model DSFormer are about to be released.
 
