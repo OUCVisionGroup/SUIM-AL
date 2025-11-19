@@ -1,5 +1,3 @@
-  
-# SUIM-AL
 # Enhance Underwater Imaging in Nonuniform Artificial Light: An Extended Benchmark Dataset and A Dual-Stream Co-training Enhancement Model
 Zhou Ge, Han Mei, Kunqian Li*, Dalei Song
 <div>
