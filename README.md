@@ -15,7 +15,7 @@ Based on the physical imaging model, we introduce an AL incorporated underwater 
 <div>
    <img src="./SUIM-AL.png" width="80%" alt="teaser" align=center />
 </div>
-The complete dataset as well as the training and testing sets used for the enhancement model have all been uploaded.[SUIM-AL dataset](https://drive.google.com/drive/home)
+The complete dataset as well as the training and testing sets used for the enhancement model have all been uploaded.[SUIM-AL dataset](https://pan.baidu.com/s/1hZOopSWK-9iSnp5OHCi16Q?pwd=ib25)
 
 ## DSFormer 
 We propose DSFormer, a dual-stream Transformer network with shared weights, trained on pairs of images under varying lighting and degradation conditions to improve robustness.
@@ -35,7 +35,7 @@ We propose DSFormer, a dual-stream Transformer network with shared weights, trai
 python Enhancement/test_from_dataset.py
 ```
 ### ▶️Model train 
-- Download the CLIP prompt model and modify the configuration file.
+- Download the CLIP prompt model and modify the configuration file.(https://pan.baidu.com/s/1KMjYPGYXV2XbVTmij-H0dw?pwd=beeh)
 
 ```
 python basicsr/train.py --opt Options/DSFormer.yml
