@@ -27,9 +27,6 @@ We propose DSFormer, a dual-stream Transformer network with shared weights, trai
 - PyTorch >= 1.11
 - CUDA >= 11.3  
 - For other dependencies and environment configurations, please refer to [Retinexformer](https://github.com/caiyuanhao1998/Retinexformer).
-<div>
-   <img src="./SUIM-AL.png" width="80%" alt="teaser" align=center />
-</div>
 
 ### ▶️Model inference 
 - Download the pretrained model and modify the configuration file path.
