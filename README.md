@@ -28,13 +28,13 @@ We propose DSFormer, a dual-stream Transformer network with shared weights, trai
 - CUDA >= 11.3  
 - For other dependencies and environment configurations, please refer to [Retinexformer](https://github.com/caiyuanhao1998/Retinexformer).
 
-### ▶️Model inference 
+### ▶️Testing
 - Download the pretrained model and modify the configuration file path.
 
 ```
 python Enhancement/test_from_dataset.py
 ```
-### ▶️Model train 
+### ▶️Training 
 - Download the CLIP prompt model and modify the configuration file.(https://pan.baidu.com/s/1KMjYPGYXV2XbVTmij-H0dw?pwd=beeh)
 
 ```
