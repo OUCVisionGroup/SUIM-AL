@@ -15,8 +15,13 @@ Based on the physical imaging model, we introduce an AL incorporated underwater 
 <div>
    <img src="./SUIM-AL.png" width="80%" alt="teaser" align=center />
 </div>
-The complete dataset as well as the training and testing sets used for the enhancement model have all been uploaded.[SUIM-AL dataset](https://pan.baidu.com/s/1hZOopSWK-9iSnp5OHCi16Q?pwd=ib25)
+The complete dataset as well as the training and testing sets used for the enhancement model have all been uploaded.[SUIM-AL](https://pan.baidu.com/s/12NAMqR8IEQtPhekWSFhUaA?pwd=v53f)
 
+### ▶️Data synthesis
+If you want to synthesize the degraded data yourself, please prepare the light source image and the depth range file by yourself.
+```
+python data synthesis.py
+```
 ## DSFormer 
 We propose DSFormer, a dual-stream Transformer network with shared weights, trained on pairs of images under varying lighting and degradation conditions to improve robustness.
 <div>
